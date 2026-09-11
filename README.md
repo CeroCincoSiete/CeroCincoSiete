@@ -60,6 +60,7 @@ filosofia:    "Ofensiva para entender, defensiva para proteger"
 | 🌐 **Net-Radar** | `Blue Team` | Monitor de red local y dispositivos activos con integración de streaming | `Python` `FastAPI` `SQLite` |
 | 🔬 **FSA** *(File Security Analyzer)* | `Defensivo` | Analizador de integridad de archivos mediante Magic Bytes y API de VirusTotal | `Python` `Rich` `VirusTotal` |
 | 🎣 **Phish-Tracker** | `Threat Intel` | Monitor de typosquatting y detección de infraestructuras de phishing activas | `Python` `DNS` `OSINT` |
+| 🔒 **CRYPTO-CHECK** | `Blue Team` | Auditoría defensiva (Blue Team) de certificados SSL/TLS | `Python` |
 
 </div>
 
@@ -73,17 +74,6 @@ filosofia:    "Ofensiva para entender, defensiva para proteger"
 [+] Programación / Dev       ████████████░░░░░░░░  60%   Python · Scripting Bash · Parsing JSON/HTML
 [+] Redes y Protocolos       ██████████████░░░░░░  70%   TCP/IP · DNS · HTTP/S · SSH · RTSP
 ```
-
-<br>
-
-<div align="center">
-
-## 📈 Actividad
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CeroCincoSiete&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CeroCincoSiete&layout=compact&theme=radical&hide_border=true)
-
-</div>
 
 <br>
 
