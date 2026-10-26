@@ -1,5 +1,7 @@
 <div align="center">
 
+<div align="center">
+
 <pre>
  ██████╗ ███████╗███████╗
 ██╔═══██╗██╔════╝╚════██║
@@ -8,13 +10,9 @@
 ╚██████╔╝███████║   ██║  
  ╚═════╝ ╚══════╝   ╚═╝  
 </pre>
-
 # 🛡️ 057 <span style="font-weight:normal">— CeroCincoSiete</span>
 
-### ⚡ Cybersecurity Developer & Threat Hunter
-
-*Especializado en el desarrollo de herramientas para la explotación y protección de vulnerabilidades*
-
+### Administración de sistemas · Redes · Herramientas de seguridad defensiva
 <br>
 
 ![Red Team](https://img.shields.io/badge/RED_TEAM-Offensive_Security-b91c1c?style=for-the-badge&logo=hackaday&logoColor=white)
@@ -29,6 +27,30 @@
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+[**Portafolio**](https://cerocincosiete.github.io) · [**LinkedIn**](https://www.linkedin.com/in/vidal-triano-cerocincosiete/)
+
+</div>
+
+## Quién soy
+
+Estudiante de administración de sistemas trabajando en un MSP de telecomunicaciones.
+Por el día: centralitas VoIP, routers, virtualización y Microsoft 365 en entornos de cliente reales.
+Por la noche: herramientas de terminal en Python para detectar, auditar y entender ataques de red.
+
+## Proyectos
+
+| Proyecto | Qué hace | Stack |
+|:---|:---|:---|
+| [**DOS_Detect**](https://github.com/CeroCincoSiete/DOS_Detect) | Detector de SYN/ICMP/UDP/HTTP flood en tiempo real con dashboard TUI, volcado forense a `.pcap` y alertas por webhook. Incluye modo simulación y tests. | `scapy` `Textual` `threading` |
+| [**CRYPTO-CHECK**](https://github.com/CeroCincoSiete/CRYPTO-CHECK) | Auditoría de certificados X.509, versiones TLS, cipher suites y HSTS con calificación A–F. | `ssl` `cryptography` `Rich` |
+| [**PhishTracker**](https://github.com/CeroCincoSiete/PhishTracker) | Genera variantes de typosquatting de un dominio y comprueba cuáles están registradas (DNS asíncrono, WHOIS, Certificate Transparency). | `asyncio` `dnspython` `Rich` |
+| [**FSA**](https://github.com/CeroCincoSiete/F.S.A-File-Security-Analyzer) | Identifica el tipo real de un archivo por *magic bytes*, detecta ejecutables con extensión falsa y calcula SHA-256. | `Python` `Rich` |
+
+## Uso responsable
+
+Todas las herramientas están pensadas para uso defensivo, formación y auditorías **autorizadas**.
+
 
 </div>
 
@@ -48,21 +70,6 @@ filosofia:    "Ofensiva para entender, defensiva para proteger"
 - 🛡️ **Enfoque Dual (Red & Blue Team):** apasionado por la ciberseguridad ofensiva y defensiva. Construyo soluciones para analizar amenazas, auditar superficies de ataque y proteger infraestructuras.
 - 💻 **Desarrollo y Programación:** conocimientos fundamentales y prácticos aplicados a la creación de software de seguridad, scripts de automatización e interfaces TUI avanzadas.
 - 🎯 **Filosofía:** comprender el ataque para diseñar la defensa.
-
-<br>
-
-## 🛠️ Suite de Herramientas Destacadas
-
-<div align="center">
-
-| Proyecto | Tipo | Descripción | Stack |
-|:---|:---:|:---|:---|
-| 🌐 **Net-Radar** | `Blue Team` | Monitor de red local y dispositivos activos con integración de streaming | `Python` `FastAPI` `SQLite` |
-| 🔬 **FSA** *(File Security Analyzer)* | `Defensivo` | Analizador de integridad de archivos mediante Magic Bytes y API de VirusTotal | `Python` `Rich` `VirusTotal` |
-| 🎣 **Phish-Tracker** | `Threat Intel` | Monitor de typosquatting y detección de infraestructuras de phishing activas | `Python` `DNS` `OSINT` |
-| 🔒 **CRYPTO-CHECK** | `Blue Team` | Auditoría defensiva (Blue Team) de certificados SSL/TLS | `Python` |
-
-</div>
 
 <br>
 
